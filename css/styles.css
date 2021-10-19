@@ -11454,7 +11454,7 @@ header.masthead .masthead-heading {
 
 @media (min-width: 768px) {
   header.masthead {
-    padding-top: 17rem;
+    padding-top: 25rem;
     padding-bottom: 12.5rem;
 	
   }
@@ -11483,7 +11483,7 @@ header.masthead .masthead-heading {
 
 
 #Services .Services-item {
-  max-width: 15rem;
+  max-width: 15.5rem;
   margin-left: auto;
   margin-right: auto;
 }
